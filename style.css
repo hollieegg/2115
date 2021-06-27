@@ -403,7 +403,7 @@ h1 {
   margin-bottom: 10px;
 }
 
-/**** Colour, hover colour ect for all links withing paragraphs. ***/
+/**** Colour, hover colour ect for all links within paragraphs. ***/
 .links {
   color: #88abc6;
   background-color: transparent;
@@ -423,6 +423,14 @@ h1 {
   color: black;
   background-color: transparent;
   text-decoration: underline;
+}
+.rowlinks {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20%;
+  padding-right: 20%;
+
+
 }
 
 .links2 {
