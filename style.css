@@ -444,6 +444,13 @@ h1 {
   text-align: center;
 }
 
+.rowlinks2 {
+  padding-left: 20%;
+  padding-right: 20%;
+  text-align: center;
+  color: #88abc6;
+}
+
 .links2 {
   color: #252627;
   background-color: transparent;
