@@ -1123,10 +1123,12 @@ h4 {
 }
 .imageimage1 {
   max-width: 100%;
-  margin-left: 15%;
-  margin-right: 15%;
-  height: 500px;
-  width: 70%;
+  /* margin-left: %;
+  margin-right: 15%; */
+  /* height: 500px;
+  width: 70%; */
+  width: 948px;
+  height: 464;
 }
 .buttonsol {
   background-color: #88abc6;
