@@ -131,7 +131,7 @@ input:hover{
   max-width: 100%;
   display: block;
   margin: 10px auto 20px;
-  padding-top: 10px;
+  padding-top: 25px;
   padding-bottom: 10px;
 }
 
@@ -358,14 +358,13 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
 
   font-weight: 400;
   margin: 10px 0;
   color: #777;
   letter-spacing: 0.5px;
 }
-
 
 h3 {
   text-align: center;
@@ -382,15 +381,12 @@ h5 {
   padding: 8px 12px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 30px;
+  margin-top: 35px;
   letter-spacing: 2px;
   overflow: hidden;
   width: fit-content;
   margin-bottom: 10px;
-
 }
-
-
 
 body {
   margin: 0;
@@ -423,8 +419,7 @@ h1 {
   color: #88abc6;
   background-color: transparent;
   text-decoration: none;
-  font-size:17px;
-
+  font-size: 17px;
 }
 .links:visited {
   color: #88abc6;
@@ -988,9 +983,9 @@ h4 {
 }
 .rowtech {
   /* justify-content: center; */
-  display:inline-block;
+  display: inline-block;
   vertical-align: middle;
-  float: none; 
+  float: none;
   display: flex;
   flex-direction: row;
   margin-bottom: 10px;
@@ -1000,8 +995,7 @@ h4 {
   padding-left: 10%;
   padding-right: 10%;
   opacity: 0.6;
-  
-}   
+}
 
 /* .rowtech a:hover{
   opacity: 1;
@@ -1014,9 +1008,8 @@ h4 {
   padding-left: 5%;
   padding-right: 5%;
   opacity: 0.6;
-  
-  /* display: grid; */
 
+  /* display: grid; */
 }
 @media screen and (max-width: 600px) {
   .columntech {
@@ -1470,7 +1463,7 @@ input[type="submit"] {
   }
 }
 /*************************content solution*****************************/
- /* .content2s {
+/* .content2s {
   margin-top: 50px;
   margin-bottom: 100px;
   width: 100%;
