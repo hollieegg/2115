@@ -80,12 +80,13 @@ input:hover{
 .tabs ul li label:focus,
 .tabs ul li label:active {
   outline: 0;
-  color: rgb(134, 134, 134);
+  /* color: rgb(212, 212, 212); */
+  opacity: 0.8;
 }
 .tabs ul li label:hover svg,
 .tabs ul li label:focus svg,
 .tabs ul li label:active svg {
-  fill: #bec5cf;
+  fill: #747474;
 }
 .tabs .slider {
   position: relative;
