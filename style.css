@@ -136,6 +136,13 @@ input:hover{
   padding-bottom: 10px;
 }
 
+.content h4 {
+  font-size: medium;
+}
+
+.content h5 {
+  font-size: large;
+}
 .tabs .content section {
   display: none;
   animation-name: content;
